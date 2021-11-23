@@ -478,8 +478,7 @@ li {
 
 .footer-section {
   background-color: var(--section-color);
-  /* padding-top: 60px;
-  padding-bottom: 60px; */
+  padding-bottom: 60px;
 }
 
 .first-bottom-logo,
